@@ -1,0 +1,30 @@
+.fa{
+    font-size: 100px;
+ }
+.card1{
+	border: none;
+}  
+h3{
+	font-weight: 100;color: #454545;text-align: center;
+}   
+.card2{
+	border-radius: 10px;background-color: #F5F5F5;
+} 
+input[type="email"]{
+	border-radius: 5px;
+}
+.a1{
+	float: right;
+}
+input[type="password"]{
+	border-radius: 5px;
+}
+button{
+	border-radius: 5px;border:1px solid #FFFFFF;font-weight:500;
+}
+.card3{
+	border-radius: 10px;background-color: #F5F5F5;
+}
+.card4{
+	border: none;
+}

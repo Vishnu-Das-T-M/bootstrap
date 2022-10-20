@@ -1,0 +1,18 @@
+@media only screen and (max-width: 600px){
+  		.row3{
+  			padding: 10%;
+  	         }
+
+}
+p{
+	text-align:center;color: #FFFFFF;font-weight: bold;
+}  	
+.col1{
+	background-color:#1167B1;color: #FFFFFF;padding: 5%;
+}
+.col2{
+    background-color:#FF0000;color: #FFFFFF;padding: 5%;
+}
+.col3{
+    background-color:#FFA500;color: #FFFFFF;padding: 5%;
+}
